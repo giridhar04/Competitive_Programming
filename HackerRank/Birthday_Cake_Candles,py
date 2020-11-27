@@ -1,0 +1,9 @@
+n=int(input())
+l=[int(p) for p in input().split()]
+max_hei=max(l)
+count=0
+
+for val in l:
+    if val==max_hei:
+        count+=1
+print(count)
