@@ -1,1 +1,1 @@
-# HackerRank_questions
+# Competitive Programming
